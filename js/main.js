@@ -17,5 +17,4 @@ $(document).ready(function () {
         viewSlide();
     }
     setInterval(next,3000);
-
 })

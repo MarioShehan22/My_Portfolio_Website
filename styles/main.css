@@ -172,6 +172,7 @@
 }
 .inner:hover .movable-element{
     transform: translateX(50px);/*Apply CSS transform*/
+    background-color: red;
     display: flex;
 }
 /*solutions text end*/
